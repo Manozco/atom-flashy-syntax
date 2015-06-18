@@ -1,0 +1,15 @@
+{
+  "name": "flashy-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A flashy syntax, mainly focused on golang for the moment",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Manozco/atom-flashy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
