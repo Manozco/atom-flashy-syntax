@@ -1,7 +1,7 @@
 {
   "name": "flashy-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A flashy syntax, mainly focused on golang for the moment",
   "keywords": [
     "syntax",
